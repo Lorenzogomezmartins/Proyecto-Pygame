@@ -24,3 +24,43 @@ Para ejecutar el juego, necesitas tener instalados los siguientes paquetes de Py
 ## Instalación
 
 ### Clona el repositorio:
+
+**git clone https://github.com/tu_usuario/100-argentinos-dicen.git**
+
+### Navega al directorio del proyecto:
+
+**cd 100-argentinos-dicen**
+
+## Instala las dependencias:
+
+**pip install -r requirements.txt**
+
+## Ejecuta el juego:
+
+**python game.py**
+
+Estructura del Proyecto
+
+```markdown
+100-argentinos-dicen/
+│
+├── assets/ # Imágenes y otros archivos de medios
+│ ├── fondo_menu.jpg # Imagen de fondo para el menú
+│ └── fondo_preguntas.jpg # Imagen de fondo para las preguntas
+│
+├── config.py # Configuraciones y constantes globales
+├── preguntas.py # Archivo que contiene las preguntas y respuestas del juego
+├── game.py # Lógica principal del juego
+├── main.py # Archivo principal para ejecutar el menú y el juego
+└── requirements.txt # Dependencias necesarias para ejecutar el juego
+```
+
+## Controles
+
+**Teclado:** Ingresar la respuesta a las preguntas.
+**Enter:** Confirmar la respuesta.
+**Esc:** Salir del juego.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
