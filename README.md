@@ -69,7 +69,8 @@ Estructura del Proyecto
 ```
 
 <p align="center">
-## Tecnologías utilizadas
+<div id="tecnologias usadas">
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,github,py&perline=14" />
