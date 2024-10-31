@@ -2,9 +2,11 @@
 
 ![fondo_menu2](https://github.com/user-attachments/assets/c9add263-9cf1-4ca0-9f97-977e6d0b3bcb)
 
+¡Vení a vivir la emoción de competir en el clásico programa de preguntas y respuestas de Argentina!🌟 Sumergite en la adrenalina de adivinar qué piensa la mayoría y enfrentá preguntas que pondrán a prueba tu intuición y conocimiento. En este juego, sos el participante que debe pensar rápido y decidir con precisión. ¿Podrás alcanzar el puntaje máximo y llevarte el premio mayor? ¡Probá tu habilidad y convertite en el próximo ganador!
 
-Este proyecto es una implementación del clásico juego "100 Argentinos Dicen" en Python utilizando Pygame. El objetivo del juego es adivinar las respuestas más populares de un grupo de 100 personas con preguntas sobre diferentes temáticas. Si el jugador alcanza los 500 puntos en cinco rondas, gana el premio mayor de $1,000,000.
-
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+</div>
 ## Características
 
 - **Selección Aleatoria de Preguntas**: El juego selecciona aleatoriamente una pregunta de una temática específica para cada ronda.
