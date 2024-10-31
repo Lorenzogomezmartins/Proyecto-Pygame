@@ -11,7 +11,9 @@
 ## Desarrollo del juego
 "En este juego esta inspirado en el clásico 100 Argentinos Dicen, tu misión es adivinar las respuestas más populares de una serie de preguntas que se hicieron a 100 personas. En cada ronda, tendrás que poner a prueba tus conocimientos sobre lo que piensa la mayoría en temáticas variadas: desde cantantes hasta deportistas y aspectos culturales. Con cada respuesta correcta, vas sumando puntos, y si alcanzás los 500 puntos en cinco rondas, ¡te llevás el premio mayor de $1,000,000! ¿Tenés lo necesario para pensar como el resto y llevarte el gran premio?"
 
+
 ![fondo_menu2](https://github.com/user-attachments/assets/c9add263-9cf1-4ca0-9f97-977e6d0b3bcb)
+
 
 ## Características
 
