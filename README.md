@@ -68,11 +68,13 @@ Estructura del Proyecto
 └── requirements.txt # Dependencias necesarias para ejecutar el juego
 ```
 
-## Controles
+## Tecnologías utilizadas
+## 🛠️ My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,github, discord,python,git" /
 
-**Teclado:** Ingresar la respuesta a las preguntas.
-**Enter:** Confirmar la respuesta.
-**Esc:** Salir del juego.
+
 
 ## Licencia
 
