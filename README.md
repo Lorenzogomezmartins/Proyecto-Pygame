@@ -1,16 +1,17 @@
 # 100 Argentinos Dicen - El Juego
 
-![fondo_menu2](https://github.com/user-attachments/assets/c9add263-9cf1-4ca0-9f97-977e6d0b3bcb)
+
 
 ¡Vení a vivir la emoción de competir en el clásico programa de preguntas y respuestas de Argentina!🌟 Sumergite en la adrenalina de adivinar qué piensa la mayoría y enfrentá preguntas que pondrán a prueba tu intuición y conocimiento. En este juego, sos el participante que debe pensar rápido y decidir con precisión. ¿Podrás alcanzar el puntaje máximo y llevarte el premio mayor? ¡Probá tu habilidad y convertite en el próximo ganador!
-
-
-## Desarrollo del juego
-"En este juego esta inspirado en el clásico 100 Argentinos Dicen, tu misión es adivinar las respuestas más populares de una serie de preguntas que se hicieron a 100 personas. En cada ronda, tendrás que poner a prueba tus conocimientos sobre lo que piensa la mayoría en temáticas variadas: desde cantantes hasta deportistas y aspectos culturales. Con cada respuesta correcta, vas sumando puntos, y si alcanzás los 500 puntos en cinco rondas, ¡te llevás el premio mayor de $1,000,000! ¿Tenés lo necesario para pensar como el resto y llevarte el gran premio?"
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+## Desarrollo del juego
+"En este juego esta inspirado en el clásico 100 Argentinos Dicen, tu misión es adivinar las respuestas más populares de una serie de preguntas que se hicieron a 100 personas. En cada ronda, tendrás que poner a prueba tus conocimientos sobre lo que piensa la mayoría en temáticas variadas: desde cantantes hasta deportistas y aspectos culturales. Con cada respuesta correcta, vas sumando puntos, y si alcanzás los 500 puntos en cinco rondas, ¡te llevás el premio mayor de $1,000,000! ¿Tenés lo necesario para pensar como el resto y llevarte el gran premio?"
+
+![fondo_menu2](https://github.com/user-attachments/assets/c9add263-9cf1-4ca0-9f97-977e6d0b3bcb)
 
 ## Características
 
