@@ -68,9 +68,10 @@ Estructura del Proyecto
 └── requirements.txt # Dependencias necesarias para ejecutar el juego
 ```
 
-<p align="center">
-<div id="tecnologias usadas">
 
+<p align="center">
+  
+## Tecnologias utilizadas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,github,py&perline=14" />
