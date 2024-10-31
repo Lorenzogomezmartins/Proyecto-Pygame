@@ -7,6 +7,10 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+##Desarrollo del juego
+"En este juego esta inspirado en el clásico 100 Argentinos Dicen, tu misión es adivinar las respuestas más populares de una serie de preguntas que se hicieron a 100 personas. En cada ronda, tendrás que poner a prueba tus conocimientos sobre lo que piensa la mayoría en temáticas variadas: desde cantantes hasta deportistas y aspectos culturales. Con cada respuesta correcta, vas sumando puntos, y si alcanzás los 500 puntos en cinco rondas, ¡te llevás el premio mayor de $1,000,000! ¿Tenés lo necesario para pensar como el resto y llevarte el gran premio?"
+
 ## Características
 
 - **Selección Aleatoria de Preguntas**: El juego selecciona aleatoriamente una pregunta de una temática específica para cada ronda.
