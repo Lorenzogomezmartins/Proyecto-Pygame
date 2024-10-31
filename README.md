@@ -69,10 +69,9 @@ Estructura del Proyecto
 ```
 
 ## Tecnologías utilizadas
-## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,github, discord,python,git" /
+    <img src="https://skillicons.dev/icons?i=,github, discord,python,git"
 
 
 
